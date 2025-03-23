@@ -1,6 +1,8 @@
 # 🔐 Password Generator
 
 A simple and interactive **Password Generator** built using **HTML, CSS, and JavaScript**. It generates secure passwords and provides real-time feedback on password strength.
+ProjectName-Password-Generator
+Project-Link-  password-generator-nisha.netlify.app
 
 ## 🚀 Features
 
