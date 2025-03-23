@@ -9,7 +9,8 @@ It generates secure passwords and provides real-time feedback on password streng
 🔗 **GitHub Repository:** [View on GitHub](https://github.com/nishabano123/Password-Generator)  
 
 ## 📸 Screenshot  
-![Preview](https://your-image-url.com) *(If you have an image, upload it and replace the URL)*  
+(https://github.com/user-attachments/assets/cca3ce00-94a4-4267-a288-6bec2d8b67ae)
+
 
 ## 📌 Features  
 ✅ Generates strong and random passwords.  
